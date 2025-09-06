@@ -8,7 +8,7 @@ const Header = () => {
   };
   const scrollToDivById = (id: string) => {
     const element = document.getElementById(id);
-    element?.scrollIntoView({ behavior: "smooth" });
+    element?.scrollIntoView({ behavior: "smooth",block: "center" });
   };
 
   return (
