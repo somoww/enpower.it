@@ -40,7 +40,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <div className="font-semibold text-foreground">Ibrahim Goda - CTO</div>
-                    <a href="Ibrahim.goda@enpower.it.com" className="text-energy-blue hover:text-energy-blue/80 transition-colors">
+                    <a href="mailto:Ibrahim.goda@enpower.it.com" className="text-energy-blue hover:text-energy-blue/80 transition-colors">
                       Ibrahim.goda@enpower.it.com
                     </a>
                     
