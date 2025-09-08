@@ -17,7 +17,7 @@ const Footer = () => {
               <a href="https://www.linkedin.com/company/enpowerco/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 bg-white/10 hover:bg-white/20 rounded-lg flex items-center justify-center transition-colors group">
                 <Linkedin className="w-5 h-5 group-hover:text-energy-blue transition-colors" />
               </a>
-              <a href="mailto:S-hamad.kotb@zewailcity.edu.eg" className="w-10 h-10 bg-white/10 hover:bg-white/20 rounded-lg flex items-center justify-center transition-colors group">
+              <a href="hamad@enpower.it.com" className="w-10 h-10 bg-white/10 hover:bg-white/20 rounded-lg flex items-center justify-center transition-colors group">
                 <Mail className="w-5 h-5 group-hover:text-energy-blue transition-colors" />
               </a>
             </div>
@@ -39,10 +39,10 @@ const Footer = () => {
             <h4 className="font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-white/70">
               <li>
-                <a href="mailto:S-hamad.kotb@zewailcity.edu.eg" className="hover:text-white transition-colors block">Business Contact</a>
+                <a href="hamad@enpower.it.com" className="hover:text-white transition-colors block">Hamad Shokr - CEO</a>
               </li>
               <li>
-                <a href="mailto:ibmgoda@gmail.com" className="hover:text-white transition-colors block">Tech Contact</a>
+                <a href="Ibrahim.goda@enpower.it.com" className="hover:text-white transition-colors block">Ibrahim Goda - CTO</a>
               </li>
               <li>
                 

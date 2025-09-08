@@ -29,8 +29,8 @@ const ContactSection = () => {
                     <Mail className="w-6 h-6 text-white" />
                   </div>
                   <div>
-                    <div className="font-semibold text-foreground">Business Contact</div>
-                    <a href="mailto:S-hamad.kotb@zewailcity.edu.eg" className="text-energy-blue hover:text-energy-blue/80 transition-colors">s-hamad.kotb@zewailcity.edu.eg</a>
+                    <div className="font-semibold text-foreground">Hamad Shokr - CEO</div>
+                    <a href="mailto:hamad@enpower.it.com" className="text-energy-blue hover:text-energy-blue/80 transition-colors">hamad@enpower.it.com</a>
                   </div>
                 </div>
 
@@ -39,10 +39,11 @@ const ContactSection = () => {
                     <Mail className="w-6 h-6 text-white" />
                   </div>
                   <div>
-                    <div className="font-semibold text-foreground">Technical Contact</div>
-                    <a href="mailto:ibmgoda@gmail.com" className="text-energy-blue hover:text-energy-blue/80 transition-colors">
-                      ibmgoda@gmail.com
+                    <div className="font-semibold text-foreground">Ibrahim Goda - CTO</div>
+                    <a href="Ibrahim.goda@enpower.it.com" className="text-energy-blue hover:text-energy-blue/80 transition-colors">
+                      Ibrahim.goda@enpower.it.com
                     </a>
+                    
                   </div>
                 </div>
 
@@ -80,7 +81,7 @@ const ContactSection = () => {
                   <p className="text-sm text-muted-foreground mb-4">
                     Schedule a free 30-minute consultation to discuss your energy optimization needs.
                   </p>
-                  <Button variant="hero" className="w-full" onClick={() => window.open('mailto:S-hamad.kotb@zewailcity.edu.eg?subject=Free Consultation Request', '_blank')}>
+                  <Button variant="hero" className="w-full" onClick={() => window.open('mailto:hamad@enpower.it.com')}>
                     Schedule Consultation
                   </Button>
                 </div>
